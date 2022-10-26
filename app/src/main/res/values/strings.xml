@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarNote</string>
+    <string name="data">Data</string>
+    <string name="przebieg">Przebieg</string>
+    <string name="zatankowane_litry">Zatankowane Litry</string>
+    <string name="koszt_tankowania">Koszt Tankowania</string>
+    <string name="zatwierd">Zatwierdź</string>
+</resources>
